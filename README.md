@@ -5,16 +5,16 @@ The models explored include Logistic Regression, SVM, Decision Tree, Random Fore
 
 ## Repository Structure
 - 'exploratory_data_analysis.ipynb' - Data statistics and visualizations
-- 'data_preprocessing.ipynb' — Cleaning and encoding of the dataset
-- 'feature_selection.ipynb' — Variable importance and feature selection
-- 'model_training.ipynb' — Training and evaluation of models
+- 'data_preprocessing.ipynb' - Cleaning and encoding of the dataset
+- 'feature_selection.ipynb' - Variable importance and feature selection
+- 'model_training.ipynb' - Training and evaluation of models
 - 'sensitivity_analysis' - Sensitivity analysis of the best model
-- 'simulation1.csv' — Synthetic dataset used for demonstration
+- 'simulation1.csv' - Synthetic dataset used for demonstration
 - 'cleaned_data.csv'  - Preprocessed synthetic dataset used for demonstration
-- 'requirements.txt' — Python dependencies
+- 'requirements.txt' - Python dependencies
 
 ## Author
-Cephas Biney — Biomedical Data Science
+Cephas Biney — MPhil Biomedical Data Science
 
 ## Citation
 If using this work, please cite:
