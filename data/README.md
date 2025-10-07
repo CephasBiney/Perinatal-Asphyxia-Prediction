@@ -1,1 +1,1 @@
-This folder contains the raw generated dataset
+This folder contains both the raw generated dataset, and the preprocessed generated dataset.
